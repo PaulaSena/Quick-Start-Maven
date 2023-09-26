@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="BR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Android\Android Studio\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Paula\AppData\Local\Temp\surefire15113775410465693976\surefirebooter-20230926172808972_3.jar C:\Users\Paula\AppData\Local\Temp\surefire15113775410465693976 2023-09-26T17-28-08_723-jvmRun1 surefire-20230926172808972_1tmp surefire_0-20230926172808972_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Paula\AppData\Local\Temp\surefire596042105783843856\surefirebooter-20230926173027974_3.jar C:\Users\Paula\AppData\Local\Temp\surefire596042105783843856 2023-09-26T17-30-27_787-jvmRun1 surefire-20230926173027974_1tmp surefire_0-20230926173027974_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Paula\eclipse-workspace\Projects\quick-start-maven\target\test-classes;C:\Users\Paula\eclipse-workspace\Projects\quick-start-maven\target\classes;C:\Users\Paula\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Paula\AppData\Local\Temp\surefire15113775410465693976\surefirebooter-20230926172808972_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Paula\AppData\Local\Temp\surefire596042105783843856\surefirebooter-20230926173027974_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.10+0-b96-7249189"/>
