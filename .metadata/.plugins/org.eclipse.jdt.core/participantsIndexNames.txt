@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+C:\Users\Paula\eclipse-workspace\JAVA LOTERIA1\quick-start-maven\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3477974456.index
+\projetovraptor\src\main\java

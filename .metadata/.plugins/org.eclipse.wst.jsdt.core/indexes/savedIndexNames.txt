@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Paula\eclipse-workspace\JAVA LOTERIA1\quick-start-maven\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1579611850.index
+365224454.index
+1486439694.index
+775920219.index
+1072040033.index
